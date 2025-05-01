@@ -6,22 +6,25 @@ The goal of this Power BI dashboard is to analyze marketing campaign performance
 ## Dataset used:
 <a href="https://github.com/Sunil-Rathod/Marketing-Campaign-Analysis-Dashboard--Power-BI/blob/main/Dataset%20Files.zip">Dataset</a>
 
-## KPIs & Metrics
-• Total Revenue: $42.54M
+## KPIs & Metrics:
 
-• Total Spend: $25.69M
+• Average ROI: Return on investment across all campaigns (0.68).
 
-• Average ROI: 0.68
+• Total Revenue: Total generated revenue (42.54M).
 
-• Best Campaign: Influencer Marketing
+• Total Spend: Total amount spent on campaigns (25.69M).
 
-• Total ROI by Campaign: ROI performance by campaign type
+• Best Campaign: Highest ROI campaign (Influencer Marketing).
 
-• Campaign Performance by Region: Spend vs Revenue by continent
+• Total ROI by Campaign: ROI scores by campaign name.
 
-• Campaign Type Distribution: Digital (62.5%) vs Traditional (37.5%)
+• Spend vs Revenue by Region: Comparative analysis of revenue vs. spend across continents.
 
-• Monthly Spend & ROI Trends: Visual comparison for each campaign
+• Campaign ROI Trend: Monthly/overall ROI and spend comparison by campaign.
+
+• Campaign Types: Distribution of Traditional vs Digital campaigns.
+
+• ROI Gauge: Combined total ROI and average visualized in a gauge.
 
 ## Process:
 
@@ -50,13 +53,17 @@ The goal of this Power BI dashboard is to analyze marketing campaign performance
 
 ## Insights:
 
-• Influencer Marketing achieved the highest ROI (137), making it the most effective campaign.
+• Influencer Marketing delivered the highest ROI (137), making it the top-performing campaign.
 
-• Africa and Asia generated the highest revenue compared to spend.
+• Africa showed the highest revenue ($8.6M) with efficient spend ($5.1M), indicating strong ROI.
 
-• Digital campaigns significantly outperformed traditional campaigns in both volume and ROI.
+• Digital Campaigns accounted for 62.5% of total campaigns, outperforming traditional channels in ROI.
 
-• Campaigns like TV Commercials and Email Marketing had lower ROI, indicating areas to reassess.
+• TV Commercials and Billboards had the lowest ROI despite high spend, highlighting areas to optimize.
+
+• Social Media Ads and Content Marketing delivered strong returns with balanced spending.
+
+• Average ROI across all campaigns is 0.68, signaling opportunities for strategic improvements.
 
 ## Conclusion:
 
