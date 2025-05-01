@@ -3,6 +3,9 @@
 ## Objective:
 The goal of this Power BI dashboard is to analyze marketing campaign performance across regions and channels, helping stakeholders understand campaign ROI, spend efficiency, and revenue impact to make better marketing decisions.
 
+## Dataset used:
+<a href="https://github.com/Sunil-Rathod/Marketing-Campaign-Analysis-Dashboard--Power-BI/blob/main/Dataset%20Files.zip">Dataset</a>
+
 ## KPIs & Metrics
 • Total Revenue: $42.54M
 
@@ -39,6 +42,11 @@ The goal of this Power BI dashboard is to analyze marketing campaign performance
 • Interactivity: Tooltips and drill-down analysis for detailed views.
 
 • Deployment: Published to Power BI Service for easy sharing with stakeholders.
+
+## Dashboard:
+<a href="https://github.com/Sunil-Rathod/Marketing-Campaign-Analysis-Dashboard--Power-BI/blob/main/Marketing%20Campaign%20Analysis.pbix">View DashBoard- PBIX file</a>
+
+![Marketing Campaign Analysis](https://github.com/user-attachments/assets/28fc3408-3215-43dc-89de-9b0cdf026fd8)
 
 ## Insights:
 
