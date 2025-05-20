@@ -1,4 +1,4 @@
-# Marketing-Campaign-Analysis-Dashboard--Power-BI
+# Marketing Campaign Analysis Dashboard
 
 ## Objective:
 The goal of this Power BI dashboard is to analyze marketing campaign performance across regions and channels, helping stakeholders understand campaign ROI, spend efficiency, and revenue impact to make better marketing decisions.
